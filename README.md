@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pugazhendhi Raju
+# 👋 Hi there, I'm Pukazhendhi Raju
 
 🚀 A passionate **Full-Stack Developer**, AI Experimenter, and Product Builder from India.  
 I love building **real-world solutions**, blending creativity with code to craft unique apps, tools, and digital experiences.
