@@ -51,10 +51,6 @@ I love building **real-world solutions**, blending creativity with code to craft
 > A solar-dried fish startup demo website with Firebase order handling and email confirmation  
 > Tech: React, Firebase, EmailJS
 
-### 🔹 [FreedomGuard (WIP)]()
-> Android app that blocks installation of monitoring apps (like Family Link)  
-> Tech: Kotlin, Accessibility Service, UsageStatsManager
-
 ---
 
 ## 📫 Contact Me
