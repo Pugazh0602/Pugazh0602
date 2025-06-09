@@ -38,13 +38,14 @@ I love building **real-world solutions**, blending creativity with code to craft
 
 ## 🚀 Featured Projects
 
-### 🔹 [PersonaForge – Shopify Chatbot UI](https://kayam-exim.myshopify.com/)
-> Static persona-based chatbot UI embedded via Shopify Theme App Extension  
-> Tech: Shopify Liquid, React, Polaris UI
+### 🔹 [PersonaChat –Chatbot UI](http://personachat-9i9j.vercel.app/chat)
+> A static UI chatbot simulating emotional states: Happy, Sad, Angry, and Depressed  
+> Built with React + TailwindCSS  
+> UI dynamically reflects the selected emotional persona
 
-### 🔹 [CodeTalk – Natural Language to Code IDE](https://github.com/Pugazh0602/CodeTalk)
+### 🔹 [CodeTalk – Natural Language to Code IDE]()
 > Input natural language, get working Python code. Uses rule-based + DeepSeek AI parsing.  
-> Tech: React, TailwindCSS, Skulpt/Pyodide, DeepSeek R1
+> Tech: React, TailwindCSS, Skulpt/Pyodide, Gemini
 
 ### 🔹 [Kayam Exim – Product Catalog Site](https://kayamexim-2aab1.web.app/)
 > A solar-dried fish startup demo website with Firebase order handling and email confirmation  
